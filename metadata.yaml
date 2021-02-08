@@ -1,0 +1,43 @@
+_repo: Australia-in-Palestine_64455
+_version: 0.0.1
+creator:
+  editors:
+  - agent_name: Barrett, Charles
+    alias: Barrett, Charles Leslie
+    birthdate: 1879
+    deathdate: 1959
+    gutenberg_agent_id: '52885'
+    url: http://www.gutenberg.org/2009/agents/52885
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Leslie_Barrett
+  - agent_name: Barker, David Crothers
+    alias: Barker, David
+    birthdate: 1888
+    deathdate: 1946
+    gutenberg_agent_id: '52910'
+    url: http://www.gutenberg.org/2009/agents/52910
+  - agent_name: Gullett, H. S. (Henry Somer)
+    aliases:
+    - Gullett, Henry Somer
+    - Gullett, Sir Henry Somer
+    birthdate: 1878
+    deathdate: 1940
+    gutenberg_agent_id: '52909'
+    url: http://www.gutenberg.org/2009/agents/52909
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Gullett
+description: ''
+gutenberg_issued: '2021-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64455'
+  lccn: '24001100'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Australia'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Palestine'
+- GITenberg
+title: Australia in Palestine
+url: http://www.gutenberg.org/ebooks/64455
